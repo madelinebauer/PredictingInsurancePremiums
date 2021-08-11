@@ -1,8 +1,8 @@
-# PredictingInsurancePremiums
+# Predicting Insurance Premiums Using Regression
 
-This project is under construction. 
+Health insurance is a market that will never die out as most people have (or should have) some level of health insurance. Illnesses, accidents, medications, surgeries, etc. all add up in a person or family's yearly budget. But, by having health insurance, an individual or family is not liable for paying an entire medical bill. One of the many important tasks within the health insurance industry includes determining policy premiums for their customers. With predictive modeling, insurance companies can determine an accurate and fair policy premium based on a customer’s behaviors and their attributes. By analyzing customer habits and behaviors over time, insurers are able to anticipate future behaviors and provide the right insurance products and policy premiums. 
 
-Please check back soon for updates!
+This project will aim to predict future premiums through the use of regression models and past data.
 
 
 [Project Proposal](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/6c248c310773e0e27f15794a7c950f531587735b/8.1%20Project%20Proposal%20-%20BAUER.pdf 'Project Proposal')
