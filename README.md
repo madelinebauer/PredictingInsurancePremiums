@@ -15,4 +15,6 @@ Please check back soon for updates!
 
 [Kaggle Dataset](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/3fbe491e7487104ace05125f79e60782b5e4396e/insurance.csv 'Kaggle')
 
+[My Dataset](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/01724c0baf0848bedf2b4606c84f932c31744e66/MyDataSet.xlsx 'My Data')
+
 
