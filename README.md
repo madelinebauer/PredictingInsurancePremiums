@@ -9,3 +9,6 @@ Please check back soon for updates!
 
 [Paper](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/ce2d50510a5e6e3424c8b54978b50c2782de9429/Predicting%20Insurance%20Premiums%20-%20BAUER.pdf 'Paper')
 
+[Presentation Slides](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/f21d43808cfbefa4df3cfc19b24484d19867163b/Presentation3_BAUER.pdf 'Slides')
+
+
