@@ -12,3 +12,7 @@ Please check back soon for updates!
 [Presentation Slides](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/f21d43808cfbefa4df3cfc19b24484d19867163b/Presentation3_BAUER.pdf 'Slides')
 
 [Video Link](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/3373c719f63c52af9c168020bc9419496bf80f9d/Presentation%20Link%20Project%203.pdf 'Video')
+
+[Kaggle Dataset](https://github.com/madelinebauer/PredictingInsurancePremiums/blob/3fbe491e7487104ace05125f79e60782b5e4396e/insurance.csv 'Kaggle')
+
+
